@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/agdaalif/reaperads-NFT/static/css/main.ec128daa.css",
+    "main.js": "/agdaalif/reaperads-NFT/static/js/main.15f6b4b0.js",
+    "static/media/owner.png": "/agdaalif/reaperads-NFT/static/media/owner.90617ff236b50310af55.png",
+    "static/media/ethlogo.png": "/agdaalif/reaperads-NFT/static/media/ethlogo.e933df8040b5b6ce4fda.png",
+    "index.html": "/agdaalif/reaperads-NFT/index.html",
+    "main.ec128daa.css.map": "/agdaalif/reaperads-NFT/static/css/main.ec128daa.css.map",
+    "main.15f6b4b0.js.map": "/agdaalif/reaperads-NFT/static/js/main.15f6b4b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec128daa.css",
+    "static/js/main.15f6b4b0.js"
+  ]
+}
